@@ -1,0 +1,15 @@
+CE,T2.Raw_Mean,Sqrt
+NE,T2.Raw_Mean,Recip
+Total,T2.Raw_Mean,None
+CE,RCBV.Raw_Mean,Sqrt
+NE,RCBV.Raw_Mean,Log10
+Total,RCBV.Raw_Mean,Log10
+CE,MD.Raw_Mean,Log10
+NE,MD.Raw_Mean,None
+Total,MD.Raw_Mean,Log10
+CE,FA.Raw_Mean,Log10
+NE,FA.Raw_Mean,Sqrt
+Total,FA.Raw_Mean,Log10
+CE,EPI.Raw_Mean,None
+NE,EPI.Raw_Mean,None
+Total,EPI.Raw_Mean,Sqrt
