@@ -1,3 +1,5 @@
+Author: Taylor Weiskittel
+Contact: tweiskittel94@gmail.com
 #R SESSION INFORMATION#
 R version 4.2.2 (2022-10-31 ucrt)
 Platform: x86_64-w64-mingw32/x64 (64-bit)
