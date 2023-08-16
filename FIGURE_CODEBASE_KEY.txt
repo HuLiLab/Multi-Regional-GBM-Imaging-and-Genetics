@@ -1,0 +1,17 @@
+### FIGURES ASSOCIATED WITH EACH CODE BASE ###
+Author: Nate Semmineh
+DSC_MRI_analysis_code:
+8F-I
+S14H-I
+Author: Taylor Weiskittel
+MEM Modeling Genetics:
+2C-D
+5C-D
+S3
+S5
+MEM Modeling Pathway Signatures: 
+8B-E
+S9
+S10
+S13
+S14A-G
