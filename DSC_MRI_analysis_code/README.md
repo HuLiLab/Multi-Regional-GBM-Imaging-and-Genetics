@@ -1,4 +1,5 @@
 Author: Nate Semmineh
+
 This zip folder consists of 4 files
 	* dR2s_NEU_GPM.m - MATLAB code
 	* README.md - A readme file
